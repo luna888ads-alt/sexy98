@@ -506,7 +506,7 @@
     // Enhanced server management
     const serverConfigs = [
       { url: "sxbauto-bbsst.store", name: "เซิร์ฟเวอร์หลัก", priority: 1 },
-      { url: "https://sxbauto-rispc.store", name: "เซิร์ฟเวอร์สำรอง A", priority: 2 },
+      { url: "sxbauto-rispc.store", name: "เซิร์ฟเวอร์สำรอง A", priority: 2 },
       { url: "https://sxbauto-laospost.store", name: "เซิร์ฟเวอร์สำรอง B", priority: 3 }
     ];
 
